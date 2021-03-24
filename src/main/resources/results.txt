@@ -1,0 +1,10 @@
+George Tailor,0,2,2,0,0
+Martin Tailor,0,0,0,1,0
+Evelin Shepherd,0,2,1,2,0
+Adam Field,2,2,1,0,2
+Adam Soon,2,2,2,0,0
+Leslie Wolf,0,0,1,2,0
+Alexander Woolly,1,0,1,0,0
+Leslie Little,0,0,0,0,0
+Andrew Count,2,2,0,2,2
+Lilla Carver,2,2,2,2,1
